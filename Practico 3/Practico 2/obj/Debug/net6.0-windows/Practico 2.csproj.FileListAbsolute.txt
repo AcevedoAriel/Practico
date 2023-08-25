@@ -1,0 +1,34 @@
+C:\Users\ariel\source\repos\Practico 2\Practico 2\bin\Debug\net6.0-windows\Practico 2.exe
+C:\Users\ariel\source\repos\Practico 2\Practico 2\bin\Debug\net6.0-windows\Practico 2.deps.json
+C:\Users\ariel\source\repos\Practico 2\Practico 2\bin\Debug\net6.0-windows\Practico 2.runtimeconfig.json
+C:\Users\ariel\source\repos\Practico 2\Practico 2\bin\Debug\net6.0-windows\Practico 2.dll
+C:\Users\ariel\source\repos\Practico 2\Practico 2\bin\Debug\net6.0-windows\Practico 2.pdb
+C:\Users\ariel\source\repos\Practico 2\Practico 2\obj\Debug\net6.0-windows\Practico_2.Form1.resources
+C:\Users\ariel\source\repos\Practico 2\Practico 2\obj\Debug\net6.0-windows\Practico 2.csproj.GenerateResource.cache
+C:\Users\ariel\source\repos\Practico 2\Practico 2\obj\Debug\net6.0-windows\Practico 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\source\repos\Practico 2\Practico 2\obj\Debug\net6.0-windows\Practico 2.AssemblyInfoInputs.cache
+C:\Users\ariel\source\repos\Practico 2\Practico 2\obj\Debug\net6.0-windows\Practico 2.AssemblyInfo.cs
+C:\Users\ariel\source\repos\Practico 2\Practico 2\obj\Debug\net6.0-windows\Practico 2.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\Practico 2\Practico 2\obj\Debug\net6.0-windows\Practico 2.dll
+C:\Users\ariel\source\repos\Practico 2\Practico 2\obj\Debug\net6.0-windows\refint\Practico 2.dll
+C:\Users\ariel\source\repos\Practico 2\Practico 2\obj\Debug\net6.0-windows\Practico 2.pdb
+C:\Users\ariel\source\repos\Practico 2\Practico 2\obj\Debug\net6.0-windows\Practico 2.genruntimeconfig.cache
+C:\Users\ariel\source\repos\Practico 2\Practico 2\obj\Debug\net6.0-windows\ref\Practico 2.dll
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\bin\Debug\net6.0-windows\Practico 2.exe
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\bin\Debug\net6.0-windows\Practico 2.deps.json
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\bin\Debug\net6.0-windows\Practico 2.runtimeconfig.json
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\bin\Debug\net6.0-windows\Practico 2.dll
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\bin\Debug\net6.0-windows\Practico 2.pdb
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\obj\Debug\net6.0-windows\Practico_2.Form1.resources
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\obj\Debug\net6.0-windows\Practico_2.Properties.Resources.resources
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\obj\Debug\net6.0-windows\Practico 2.csproj.GenerateResource.cache
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\obj\Debug\net6.0-windows\Practico 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\obj\Debug\net6.0-windows\Practico 2.AssemblyInfoInputs.cache
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\obj\Debug\net6.0-windows\Practico 2.AssemblyInfo.cs
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\obj\Debug\net6.0-windows\Practico 2.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\obj\Debug\net6.0-windows\Practico 2.dll
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\obj\Debug\net6.0-windows\refint\Practico 2.dll
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\obj\Debug\net6.0-windows\Practico 2.pdb
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\obj\Debug\net6.0-windows\Practico 2.genruntimeconfig.cache
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\obj\Debug\net6.0-windows\ref\Practico 2.dll
+C:\Users\ariel\source\repos\Pequeño Formulario\Practico 2\obj\Debug\net6.0-windows\Practico_2.MDIParent1.resources
