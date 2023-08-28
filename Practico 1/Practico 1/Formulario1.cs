@@ -29,7 +29,7 @@ namespace Practico_1
 
         private void Formulario1_KeyDown(object sender, KeyEventArgs e)
         {
-            //sale del formulario
+            //si oprimo (CTRL + S) sale del formulario
             if (e.Control && e.KeyCode == Keys.S)
             {
                 Application.Exit();
