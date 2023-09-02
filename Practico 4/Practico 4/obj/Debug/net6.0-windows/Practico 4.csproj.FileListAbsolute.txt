@@ -1,0 +1,16 @@
+C:\Users\ariel\source\repos\Practico 4\Practico 4\bin\Debug\net6.0-windows\Practico 4.exe
+C:\Users\ariel\source\repos\Practico 4\Practico 4\bin\Debug\net6.0-windows\Practico 4.deps.json
+C:\Users\ariel\source\repos\Practico 4\Practico 4\bin\Debug\net6.0-windows\Practico 4.runtimeconfig.json
+C:\Users\ariel\source\repos\Practico 4\Practico 4\bin\Debug\net6.0-windows\Practico 4.dll
+C:\Users\ariel\source\repos\Practico 4\Practico 4\bin\Debug\net6.0-windows\Practico 4.pdb
+C:\Users\ariel\source\repos\Practico 4\Practico 4\obj\Debug\net6.0-windows\Practico_4.Form1.resources
+C:\Users\ariel\source\repos\Practico 4\Practico 4\obj\Debug\net6.0-windows\Practico 4.csproj.GenerateResource.cache
+C:\Users\ariel\source\repos\Practico 4\Practico 4\obj\Debug\net6.0-windows\Practico 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ariel\source\repos\Practico 4\Practico 4\obj\Debug\net6.0-windows\Practico 4.AssemblyInfoInputs.cache
+C:\Users\ariel\source\repos\Practico 4\Practico 4\obj\Debug\net6.0-windows\Practico 4.AssemblyInfo.cs
+C:\Users\ariel\source\repos\Practico 4\Practico 4\obj\Debug\net6.0-windows\Practico 4.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\Practico 4\Practico 4\obj\Debug\net6.0-windows\Practico 4.dll
+C:\Users\ariel\source\repos\Practico 4\Practico 4\obj\Debug\net6.0-windows\refint\Practico 4.dll
+C:\Users\ariel\source\repos\Practico 4\Practico 4\obj\Debug\net6.0-windows\Practico 4.pdb
+C:\Users\ariel\source\repos\Practico 4\Practico 4\obj\Debug\net6.0-windows\Practico 4.genruntimeconfig.cache
+C:\Users\ariel\source\repos\Practico 4\Practico 4\obj\Debug\net6.0-windows\ref\Practico 4.dll
